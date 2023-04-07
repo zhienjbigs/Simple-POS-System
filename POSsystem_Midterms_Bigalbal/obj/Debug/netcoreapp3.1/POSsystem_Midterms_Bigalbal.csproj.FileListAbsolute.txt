@@ -1,0 +1,16 @@
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\bin\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.exe
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\bin\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.deps.json
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\bin\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.runtimeconfig.json
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\bin\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.runtimeconfig.dev.json
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\bin\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.dll
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\bin\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.pdb
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\obj\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.csprojAssemblyReference.cache
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\obj\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.Form1.resources
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\obj\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.Properties.Resources.resources
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\obj\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.csproj.GenerateResource.cache
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\obj\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.AssemblyInfoInputs.cache
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\obj\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.AssemblyInfo.cs
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\obj\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.csproj.CoreCompileInputs.cache
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\obj\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.dll
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\obj\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.pdb
+C:\Users\Global MRCI\Documents\Bigalbal Midterms\POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal\obj\Debug\netcoreapp3.1\POSsystem_Midterms_Bigalbal.genruntimeconfig.cache

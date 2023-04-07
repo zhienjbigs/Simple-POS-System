@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POSsystem_Midterms_Bigalbal", "POSsystem_Midterms_Bigalbal\POSsystem_Midterms_Bigalbal.csproj", "{4ED0B175-A366-4285-B298-9B9A1E64ECF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ED0B175-A366-4285-B298-9B9A1E64ECF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED0B175-A366-4285-B298-9B9A1E64ECF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED0B175-A366-4285-B298-9B9A1E64ECF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED0B175-A366-4285-B298-9B9A1E64ECF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C96C63A-9465-4DC4-8BF0-377E55C929C5}
+	EndGlobalSection
+EndGlobal
